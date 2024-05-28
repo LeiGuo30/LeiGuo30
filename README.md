@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lei Guo</h1>
 <h3 align="center">A passionate software developer and data analyst from Australia</h3>
-<h5 align="center">Experienced and results-driven professional with 9 years of dedicated expertise in operation management and business analytics within the dynamic consulting and real estate industry. Adept at leveraging industry insights and data-driven strategies to optimize business processes and enhance operational efficiency.</h5>
-<h5 align="center">Recently transitioned into the field of data science and programming, I am committed to harnessing the power of technology to drive informed decision-making and foster continuous business development. This career change reflects a deep passion for business intelligence and data-driven problem-solving.</h5>
+
+Experienced and results-driven professional with 9 years of dedicated expertise in operation management and business analytics within the dynamic consulting and real estate industry. Adept at leveraging industry insights and data-driven strategies to optimize business processes and enhance operational efficiency.
+Recently transitioned into the field of data science and programming, I am committed to harnessing the power of technology to drive informed decision-making and foster continuous business development. This career change reflects a deep passion for business intelligence and data-driven problem-solving.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leiguo30&label=Profile%20views&color=0e75b6&style=flat" alt="leiguo30" /> </p>
 
