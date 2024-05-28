@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leiguo30&label=Profile%20views&color=0e75b6&style=flat" alt="leiguo30" /> </p>
 
-- 🔭 I’m currently working on **ITP Renewables**
+- 🔭 I’m currently working at **ITP Renewables**
 
-- 🌱 I’m currently learning **Master of computing**
+- 🌱 I’m currently learning **Master of computing at ANU**
 
 - 📫 How to reach me **guolei0030@gmail.com**
 
